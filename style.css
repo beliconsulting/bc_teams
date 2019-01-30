@@ -1,0 +1,45 @@
+.bc_teams.showcase{
+  padding-bottom:5%;
+}
+#bc_team_pict{
+  width: 200px;
+  max-height: 200px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+#bc_team_posi{
+  text-align: center;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+.bc_showcase_top_left{
+  float:left;
+}
+.bc_showcase_top_right{
+  height:200px;
+  padding-left:22%;
+}
+.bc_showcase_bot_left{
+  float:left;
+  width: 200px;
+}
+.bc_showcase_bot_right{
+  width:80%;
+  padding-left:22%;
+  padding-top: 5%;
+  text-align:center;
+}
+#bc_team_readmore{
+  float:right;
+}
+
+#bc_showcase_social{
+  display:inline-flex;
+  list-style-type: none;
+}
+#bc_showcase_social li{
+  float:left;
+  margin-right:15px;
+}
